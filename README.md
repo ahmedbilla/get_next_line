@@ -68,5 +68,4 @@ License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 
-
-⬆ Return to Top
+<div align="left" class=""><a href="#top">⬆ Return</a></div>
